@@ -1,2 +1,2 @@
 # AAAProjects
-HTML Components
+HTML Source Components used in AEM.
